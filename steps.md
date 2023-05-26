@@ -11,6 +11,7 @@ va applicato uno sconto del 40% per gli over 65.
 - chiedo all'utente il numero di km che deve percorrere
 - chiedo all'utente l'età
 - calcolo il prezzo del biglietto
+- calcolo gli sconti
 - SE l'utente ha meno di 18 anni, va applicato uno sconto del 20%
 - SE l'utente ha 65 anni o più, va applicato uno sconto del 40%
 - genero il prezzo totale del viaggio con lo sconto applicato
